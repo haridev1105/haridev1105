@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Harshit Sanchania </h1>
 <h3 align="center">A passionate Cloud/SRE/DevOps Engineer. I have a keen interest in Cloud Computing, DevOps and automation. I am currently learning various DevOps tools and methodologies, with the goal of developing and deploying production-ready applications.</h3>
 
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ankitthedevops&theme=gotham" alt="ankitthedevops" /></p>
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=haridev1105&theme=gotham" alt="haridev1105" /></p>
 
 <!--
 <img align='right' src="https://cdn.dribbble.com/users/1292677/screenshots/6139167/avento.gif" width="300">
@@ -24,9 +24,9 @@
 
 ## 📊 GitHub Stats
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ankitthedevops&show_icons=true&locale=en&theme=gotham" alt="ankitthedevops" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=haridev1105&show_icons=true&locale=en&theme=gotham" alt="haridev1105" /></p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ankitthedevops&show_icons=true&locale=en&layout=compact&theme=gotham" alt="ankitthedevops" /></p> <br>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=haridev1105&show_icons=true&locale=en&layout=compact&theme=gotham" alt="haridev1105" /></p> <br>
 
 <!--
 #### Thanks for visiting :heart:

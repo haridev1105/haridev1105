@@ -13,7 +13,7 @@
 
 ## 📫 How to reach me?
 
-⦿ Connect with me on [LinkedIn]([https://www.linkedin.com/in/harshit-sanchania-8b9ab058/]) 👨🏻‍💻 <br>
+⦿ Connect with me on [LinkedIn](https://www.linkedin.com/in/harshit-sanchania-8b9ab058) 👨🏻‍💻 <br>
 ⦿ Shoot Me an [Email](mailto:harshitsanchania@gmail.com) 💌 <br>
 
 <div align="center">
